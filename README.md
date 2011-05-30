@@ -11,6 +11,11 @@ More information about Dradis can be found at:
 * http://dradisframework.org/
 * https://github.com/dradis/dradisframework/
 
+Available macros
+----------------
+
+**DradisScreenshot**: Import Dradis-hosted screenshots into your Word report.
+
 
 License
 -------
